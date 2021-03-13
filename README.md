@@ -1,5 +1,5 @@
 # Hello-World
-the following document will have a short hello-world application wich is a common introductory program.
+The following document will have a short hello-world application wich is a common introductory program.
 
 Hello Everyone, 
 
